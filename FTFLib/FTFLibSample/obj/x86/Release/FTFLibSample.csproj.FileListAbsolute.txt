@@ -1,0 +1,14 @@
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\MainWindow.baml
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\MainWindow.g.cs
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\App.g.cs
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\FTFLibSample_MarkupCompile.cache
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\FTFLibSample.g.resources
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\FTFLibSample.Properties.Resources.resources
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\FTFLibSample.csproj.GenerateResource.Cache
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\FTFLibSample.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\bin\Release\FTFLibSample.exe
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\bin\Release\FTFLibSample.pdb
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\bin\Release\FTFLib.dll
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\bin\Release\FTFLib.pdb
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\FTFLibSample.exe
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLibSample\obj\x86\Release\FTFLibSample.pdb

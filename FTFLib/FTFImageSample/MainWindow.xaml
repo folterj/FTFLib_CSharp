@@ -1,0 +1,15 @@
+﻿<Window x:Class="FTFImageSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+		<Menu Height="23" HorizontalAlignment="Stretch" Name="mainMenu" VerticalAlignment="Top">
+			<MenuItem Header="File" Name="fileMenuItem">
+				<MenuItem Header="Create" Name="createMenuItem" Click="createMenuItem_Click" />
+				<MenuItem Header="Open" Name="openMenuItem" Click="openMenuItem_Click" />
+				<MenuItem Header="Save As" Name="saveMenuItem" Click="saveMenuItem_Click" />
+			</MenuItem>
+		</Menu>
+		<Image Name="mainImage" Stretch="Fill" Margin="0,20,0,0" />
+	</Grid>
+</Window>

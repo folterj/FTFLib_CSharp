@@ -1,0 +1,4 @@
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLib\bin\Release\FTFLib.dll
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLib\bin\Release\FTFLib.pdb
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLib\obj\Release\FTFLib.dll
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFLib\obj\Release\FTFLib.pdb

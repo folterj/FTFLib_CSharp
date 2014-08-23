@@ -1,0 +1,5 @@
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFImageLib\bin\Release\FTFImageLib.dll
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFImageLib\bin\Release\FTFImageLib.pdb
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFImageLib\obj\Release\FTFImageLib.dll
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFImageLib\obj\Release\FTFImageLib.pdb
+D:\Personal\Projects\Flexible Tagged Format\FTFLib_CS\FTFImageLib\obj\Release\FTFImageLib.csprojResolveAssemblyReference.cache
